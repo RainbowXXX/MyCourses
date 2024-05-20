@@ -1,0 +1,16 @@
+D:\MyCourses\C# Programming\bin\Debug\net8.0-windows\C# Programming.exe
+D:\MyCourses\C# Programming\bin\Debug\net8.0-windows\C# Programming.deps.json
+D:\MyCourses\C# Programming\bin\Debug\net8.0-windows\C# Programming.runtimeconfig.json
+D:\MyCourses\C# Programming\bin\Debug\net8.0-windows\C# Programming.dll
+D:\MyCourses\C# Programming\bin\Debug\net8.0-windows\C# Programming.pdb
+D:\MyCourses\C# Programming\obj\Debug\net8.0-windows\C__Programming.Form1.resources
+D:\MyCourses\C# Programming\obj\Debug\net8.0-windows\C# Programming.csproj.GenerateResource.cache
+D:\MyCourses\C# Programming\obj\Debug\net8.0-windows\C# Programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCourses\C# Programming\obj\Debug\net8.0-windows\C# Programming.AssemblyInfoInputs.cache
+D:\MyCourses\C# Programming\obj\Debug\net8.0-windows\C# Programming.AssemblyInfo.cs
+D:\MyCourses\C# Programming\obj\Debug\net8.0-windows\C# Programming.csproj.CoreCompileInputs.cache
+D:\MyCourses\C# Programming\obj\Debug\net8.0-windows\C# Programming.dll
+D:\MyCourses\C# Programming\obj\Debug\net8.0-windows\refint\C# Programming.dll
+D:\MyCourses\C# Programming\obj\Debug\net8.0-windows\C# Programming.pdb
+D:\MyCourses\C# Programming\obj\Debug\net8.0-windows\C# Programming.genruntimeconfig.cache
+D:\MyCourses\C# Programming\obj\Debug\net8.0-windows\ref\C# Programming.dll
